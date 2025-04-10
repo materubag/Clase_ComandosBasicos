@@ -1,2 +1,4 @@
 *.log
 *.exe
+info.html
+/node_modules
