@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 *.log
 *.exe
 /node_modules
+=======
+info.html
+*.exe
+*.log
+/node_module
+>>>>>>> 26adf94561afb3b311a8e39608b15cc8acb66be1
